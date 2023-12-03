@@ -1,2 +1,1 @@
-# http5112
-A ripo to store files from HTTP5112
+# HTTP5112-Web Development Lab
