@@ -1,0 +1,10 @@
+CREATE TABLE Animal (
+    AnimalID INT PRIMARY KEY,
+    Species VARCHAR(255),
+    Name VARCHAR(255),
+    Age INT,
+    Status VARCHAR(50),
+    Location VARCHAR(255),
+    EntryDate DATETIME,
+    ExitDate DATETIME
+);
